@@ -1,0 +1,28 @@
+{
+  "name": "node_crud",
+  "version": "1.0.0",
+  "description": "Crud Operations With Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilgulati216/nodeCrud.git"
+  },
+  "keywords": [
+    "nodecrud"
+  ],
+  "author": "Sahil Gulati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilgulati216/nodeCrud/issues"
+  },
+  "homepage": "https://github.com/sahilgulati216/nodeCrud#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.16"
+  }
+}
